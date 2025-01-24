@@ -1,0 +1,3 @@
+if the URL in GitHub rep is https://github.com/Chee-Mun-How-i2/demo-images/blob/main/imgs/JohnBrown.png, 
+need to change it to the following URL 
+https://raw.githubusercontent.com/Chee-Mun-How-i2/demo-images/main/imgs/JohnBrown.png
